@@ -1,0 +1,5 @@
+**/target
+**/*.rs.bk
+
+# Exclude the basic tutorial projects from Rust docs
+/basic_examples
